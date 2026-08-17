@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "494442378490",
+    "project_id": "nivora-a3628",
+    "storage_bucket": "nivora-a3628.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494442378490:android:cd2915c3b459dab8f94543",
+        "android_client_info": {
+          "package_name": "com.example.nivora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494442378490-vraejl2n34kcmbnh4jjqpkah6epc0u7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkp07OS7xCkjabdVsfaCWJL4AnYrkNdL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494442378490-vraejl2n34kcmbnh4jjqpkah6epc0u7m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "494442378490-lk8rvcq8hi1417nhr4440m94jbbdnmtj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nivora"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
